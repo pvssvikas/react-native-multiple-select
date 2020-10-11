@@ -36,6 +36,7 @@ export interface MultiSelectProps {
     altFontFamily?: string;
     hideSubmitButton?: boolean;
     hideDropdown?: boolean;
+    hideSelector?: boolean;
     submitButtonColor?: string;
     submitButtonText?: string;
     textColor?: string;
